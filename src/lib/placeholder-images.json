@@ -1,0 +1,148 @@
+{
+  "placeholderImages": [
+    {
+      "id": "logo-1",
+      "description": "Innovatech Solutions logo",
+      "imageUrl": "https://picsum.photos/seed/innovatech/100/100",
+      "imageHint": "tech logo"
+    },
+    {
+      "id": "logo-2",
+      "description": "GreenScape Farms logo",
+      "imageUrl": "https://picsum.photos/seed/greenscape/100/100",
+      "imageHint": "nature leaf"
+    },
+    {
+      "id": "logo-3",
+      "description": "HealthWell Diagnostics logo",
+      "imageUrl": "https://picsum.photos/seed/healthwell/100/100",
+      "imageHint": "medical cross"
+    },
+    {
+      "id": "logo-4",
+      "description": "QuantumLeap Computing logo",
+      "imageUrl": "https://picsum.photos/seed/quantumleap/100/100",
+      "imageHint": "atom circuit"
+    },
+    {
+      "id": "logo-5",
+      "description": "FinSecure logo",
+      "imageUrl": "https://picsum.photos/seed/finsecure/100/100",
+      "imageHint": "shield lock"
+    },
+    {
+      "id": "logo-6",
+      "description": "EcoBuild Materials logo",
+      "imageUrl": "https://picsum.photos/seed/ecobuild/100/100",
+      "imageHint": "brick leaf"
+    },
+    {
+      "id": "logo-7",
+      "description": "BioGenetics Inc. logo",
+      "imageUrl": "https://picsum.photos/seed/biogenetics/100/100",
+      "imageHint": "dna strand"
+    },
+    {
+      "id": "logo-8",
+      "description": "AeroGlide Drones logo",
+      "imageUrl": "https://picsum.photos/seed/aeroglide/100/100",
+      "imageHint": "drone wings"
+    },
+    {
+      "id": "logo-9",
+      "description": "ConnectSphere logo",
+      "imageUrl": "https://picsum.photos/seed/connectsphere/100/100",
+      "imageHint": "network globe"
+    },
+    {
+      "id": "logo-10",
+      "description": "Momentum Motors logo",
+      "imageUrl": "https://picsum.photos/seed/momentum/100/100",
+      "imageHint": "electric car"
+    },
+    {
+      "id": "logo-11",
+      "description": "Starlight Studios logo",
+      "imageUrl": "https://picsum.photos/seed/starlight/100/100",
+      "imageHint": "film star"
+    },
+    {
+      "id": "logo-12",
+      "description": "CulinaryCraft logo",
+      "imageUrl": "https://picsum.photos/seed/culinary/100/100",
+      "imageHint": "chef hat"
+    },
+    {
+      "id": "logo-13",
+      "description": "LearnSphere AI logo",
+      "imageUrl": "https://picsum.photos/seed/learnsphere/100/100",
+      "imageHint": "brain book"
+    },
+    {
+      "id": "logo-14",
+      "description": "TerraForm Energy logo",
+      "imageUrl": "https://picsum.photos/seed/terraform/100/100",
+      "imageHint": "sun wind"
+    },
+    {
+      "id": "logo-15",
+      "description": "Oceanix CleanUp logo",
+      "imageUrl": "https://picsum.photos/seed/oceanix/100/100",
+      "imageHint": "wave recycle"
+    },
+    {
+      "id": "logo-16",
+      "description": "CyberGuard Solutions logo",
+      "imageUrl": "https://picsum.photos/seed/cyberguard/100/100",
+      "imageHint": "digital shield"
+    },
+    {
+      "id": "logo-17",
+      "description": "RetailRevolution logo",
+      "imageUrl": "https://picsum.photos/seed/retail/100/100",
+      "imageHint": "shopping cart"
+    },
+    {
+      "id": "logo-18",
+      "description": "MedBridge logo",
+      "imageUrl": "https://picsum.photos/seed/medbridge/100/100",
+      "imageHint": "health connection"
+    },
+    {
+      "id": "logo-19",
+      "description": "Logicore logo",
+      "imageUrl": "https://picsum.photos/seed/logicore/100/100",
+      "imageHint": "global network"
+    },
+    {
+      "id": "logo-20",
+      "description": "Artisanix logo",
+      "imageUrl": "https://picsum.photos/seed/artisanix/100/100",
+      "imageHint": "craft art"
+    },
+    {
+      "id": "logo-21",
+      "description": "VitaWellness logo",
+      "imageUrl": "https://picsum.photos/seed/vitawellness/100/100",
+      "imageHint": "health leaf"
+    },
+    {
+      "id": "logo-22",
+      "description": "TravelWise logo",
+      "imageUrl": "https://picsum.photos/seed/travelwise/100/100",
+      "imageHint": "plane globe"
+    },
+    {
+      "id": "logo-23",
+      "description": "AquaSolutions logo",
+      "imageUrl": "https://picsum.photos/seed/aquasolutions/100/100",
+      "imageHint": "water drop"
+    },
+    {
+      "id": "logo-24",
+      "description": "MindSpire logo",
+      "imageUrl": "https://picsum.photos/seed/mindspire/100/100",
+      "imageHint": "brain lightbulb"
+    }
+  ]
+}

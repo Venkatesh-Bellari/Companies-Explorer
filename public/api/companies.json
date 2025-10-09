@@ -1,0 +1,28 @@
+{
+    "companies": [
+        { "id": 1, "name": "Innovatech Solutions", "industry": "Technology", "location": "San Francisco", "foundedYear": 2015, "employees": 250, "website": "https://example.com" },
+        { "id": 2, "name": "GreenScape Farms", "industry": "Agriculture", "location": "Austin", "foundedYear": 2018, "employees": 80, "website": "https://example.com" },
+        { "id": 3, "name": "HealthWell Diagnostics", "industry": "Healthcare", "location": "Boston", "foundedYear": 2012, "employees": 500, "website": "https://example.com" },
+        { "id": 4, "name": "QuantumLeap Computing", "industry": "Technology", "location": "New York", "foundedYear": 2019, "employees": 150, "website": "https://example.com" },
+        { "id": 5, "name": "FinSecure", "industry": "Finance", "location": "New York", "foundedYear": 2020, "employees": 120, "website": "https://example.com" },
+        { "id": 6, "name": "EcoBuild Materials", "industry": "Construction", "location": "Denver", "foundedYear": 2010, "employees": 300, "website": "https://example.com" },
+        { "id": 7, "name": "BioGenetics Inc.", "industry": "Healthcare", "location": "San Diego", "foundedYear": 2016, "employees": 180, "website": "https://example.com" },
+        { "id": 8, "name": "AeroGlide Drones", "industry": "Aerospace", "location": "Seattle", "foundedYear": 2017, "employees": 90, "website": "https://example.com" },
+        { "id": 9, "name": "ConnectSphere", "industry": "Telecommunications", "location": "Dallas", "foundedYear": 2014, "employees": 400, "website": "https://example.com" },
+        { "id": 10, "name": "Momentum Motors", "industry": "Automotive", "location": "Detroit", "foundedYear": 2011, "employees": 800, "website": "https://example.com" },
+        { "id": 11, "name": "Starlight Studios", "industry": "Entertainment", "location": "Los Angeles", "foundedYear": 2013, "employees": 220, "website": "https://example.com" },
+        { "id": 12, "name": "CulinaryCraft", "industry": "Food & Beverage", "location": "Chicago", "foundedYear": 2019, "employees": 60, "website": "https://example.com" },
+        { "id": 13, "name": "LearnSphere AI", "industry": "Education", "location": "Boston", "foundedYear": 2021, "employees": 50, "website": "https://example.com" },
+        { "id": 14, "name": "TerraForm Energy", "industry": "Energy", "location": "Houston", "foundedYear": 2009, "employees": 600, "website": "https://example.com" },
+        { "id": 15, "name": "Oceanix CleanUp", "industry": "Environmental", "location": "Miami", "foundedYear": 2020, "employees": 40, "website": "https://example.com" },
+        { "id": 16, "name": "CyberGuard Solutions", "industry": "Technology", "location": "Austin", "foundedYear": 2018, "employees": 310, "website": "https://example.com" },
+        { "id": 17, "name": "RetailRevolution", "industry": "Retail", "location": "New York", "foundedYear": 2016, "employees": 1500, "website": "https://example.com" },
+        { "id": 18, "name": "MedBridge", "industry": "Healthcare", "location": "Nashville", "foundedYear": 2017, "employees": 280, "website": "https://example.com" },
+        { "id": 19, "name": "Logicore", "industry": "Logistics", "location": "Atlanta", "foundedYear": 2012, "employees": 450, "website": "https://example.com" },
+        { "id": 20, "name": "Artisanix", "industry": "E-commerce", "location": "Portland", "foundedYear": 2019, "employees": 75, "website": "https://example.com" },
+        { "id": 21, "name": "VitaWellness", "industry": "Health & Wellness", "location": "Los Angeles", "foundedYear": 2018, "employees": 110, "website": "https://example.com" },
+        { "id": 22, "name": "TravelWise", "industry": "Travel", "location": "Miami", "foundedYear": 2015, "employees": 130, "website": "https://example.com" },
+        { "id": 23, "name": "AquaSolutions", "industry": "Environmental", "location": "Denver", "foundedYear": 2014, "employees": 95, "website": "https://example.com" },
+        { "id": 24, "name": "MindSpire", "industry": "Education", "location": "San Francisco", "foundedYear": 2022, "employees": 30, "website": "https://example.com" }
+    ]
+}

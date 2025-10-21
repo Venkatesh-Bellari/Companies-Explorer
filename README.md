@@ -2,7 +2,7 @@
 
 Company Explorer is a responsive single-page web application built with React and Next.js. It provides a modern and intuitive interface for users to browse, search, filter, and sort a directory of companies. The project is designed to showcase strong frontend development skills, including state management, component-based architecture, and API data handling.
 
-![Company Explorer Screenshot](https://i.imgur.com/your-screenshot.png) <!-- It's recommended to replace this with a screenshot of your running application -->
+<!-- It's recommended to replace this with a screenshot of your running application -->
 
 ## Features
 
